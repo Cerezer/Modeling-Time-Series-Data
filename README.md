@@ -1,0 +1,1 @@
+In this repository, you'll have a step-by-step guide on how to model time series forecasts using ARIMA and Prophet in a sales scenario. You'll gain an understanding of the challenges involved and learn how to validate and interpret your models. The use of fake data ensures that the examples are easy to follow without requiring access to proprietary datasets.
